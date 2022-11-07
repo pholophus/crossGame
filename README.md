@@ -1,6 +1,6 @@
 # crossGame
 
-This project have 5 repos
+`This project have 5 repos`
 
 1) crossGameService (https://github.com/pholophus/crossGameService)
 2) crossGameWesocket (https://github.com/pholophus/crossGameWebsocket)
@@ -8,7 +8,20 @@ This project have 5 repos
 4) lumos mage game (https://github.com/XxTL96xX/LumosMageWebpack)
 5) lumos ninja game (https://github.com/XxTL96xX/LumosNinjaWebpack)
 
-Flow of project
+`Flow of project`
 
 ![image](https://user-images.githubusercontent.com/41103533/200279666-dbf581ad-1bbf-44b1-93c3-7fef9b557c46.png)
+
+`Tech stack`
+
+Fluencejs
+Mongodb
+Covalenthq
+Phaser 3
+Socket.io
+Typescript
+Javascript
+Aqua
+Html
+
 
