@@ -15,13 +15,21 @@
 `Tech stack`
 
 Fluencejs
+
 Mongodb
+
 Covalenthq
+
 Phaser 3
+
 Socket.io
+
 Typescript
+
 Javascript
+
 Aqua
+
 Html
 
 
